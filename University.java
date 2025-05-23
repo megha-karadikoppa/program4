@@ -66,5 +66,6 @@ public class University {
         System.out.println("\n=== Students with Marks < 40 ===");
         s1.printLowMarks();
         s2.printLowMarks();
+        System.out.println("/n");
     }
 }
